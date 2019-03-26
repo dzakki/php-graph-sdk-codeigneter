@@ -1,5 +1,5 @@
 # php-graph-sdk-codeigneter
-> Login atau register menggunakan API Facebook dengan Codeigneter dan menginputkan data user ke database.
+> Login atau register menggunakan API Facebook dengan Codeigneter dan menginputkan data pengguna facebook ke database.
 
 ## Persyaratan
 - PHP 5.6
